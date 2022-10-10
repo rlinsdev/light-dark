@@ -15,5 +15,6 @@ Follow these instructions to code along with the project.
 8. Code!
 
 ## Helpful Links
-- Live example: https://codinginpublic.dev/projects/light-dark/
+- PlayList: https://www.youtube.com/watch?v=6YrOGKmGTCY&list=PL4cUxeGkcC9jXaLsxbEmsPSOlb40ZLaKN
+- Live example: https://lins-light-dark.netlify.app/
 
